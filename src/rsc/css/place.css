@@ -1,0 +1,29 @@
+.g-hd{background:url('http://m1.img.srcdd.com/farm5/d/2014/1014/22/88656747FE83606072449ECFF144335A_LARGE_1200_800.jpeg') no-repeat;background-size:100% 100%;}
+.m-prolist li,.m-about h2{background:url(../images/bg2.png?001) -9999px -9999px no-repeat;}
+
+.g-hd{height:320px;padding:250px 0 0;}
+
+.m-placetit{font-size:56px;text-align:center;line-height:1.4;}
+.m-placetit .tit{padding:0 90px 0 0;background-position:right -632px;}
+.m-placetit a:hover{text-decoration:none;}
+
+.m-comminfo{padding:35px 0;text-align:center;}
+.m-comminfo .u-comscore{margin:0 auto 8px;;}
+.m-comment{padding:70px 0;background:#FBFAF7;color:#1E2C37;text-align:center;}
+.m-comment p{width:680px;margin:0 auto;}
+.m-comment .info{width:1000px;margin:50px auto 0;line-height:32px;color:#999;}
+.m-comment .info img{display:inline-block;width:32px;height:32px;margin:0 10px 0 0;vertical-align:middle;}
+.m-comment .info a{margin:0 8px 0 0;color:#4594CC;}
+
+.m-prolist{font-size:14px;}
+.m-prolist ul{margin:0 -20px 0 0;padding:0 0 1px;}
+.m-prolist li{float:left;width:250px;margin:0 20px 30px 0;padding:0 0 0 70px;}
+.m-prolist h2 a{font-size:18px;color:#1E2C37;text-decoration:underline;}
+.m-prolist li:nth-child(1),.m-about .item:nth-child(1) h2{background-position:0 0;}
+.m-prolist li:nth-child(2),.m-about .item:nth-child(2) h2{background-position:0 -90px;}
+.m-prolist li:nth-child(3),.m-about .item:nth-child(3) h2{background-position:0 -180px;}
+.m-prolist li:nth-child(4),.m-about .item:nth-child(4) h2{background-position:0 -270px;}
+.m-prolist li:nth-child(5),.m-about .item:nth-child(5) h2{background-position:0 -360px;}
+.m-prolist li:nth-child(6),.m-about .item:nth-child(6) h2{background-position:0 0;}
+.m-prolist li:nth-child(7),.m-about .item:nth-child(7) h2{background-position:0 0;}
+.m-prolist li:nth-child(8),.m-about .item:nth-child(8) h2{background-position:0 0;}

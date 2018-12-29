@@ -1,0 +1,31 @@
+.g-hd{background:url('http://m1.img.srcdd.com/farm5/d/2014/1014/22/88656747FE83606072449ECFF144335A_LARGE_1200_800.jpeg') no-repeat;background-size:100% 100%;}
+.m-prolist li,.m-about h2{background:url(../images/bg2.png?001) -9999px -9999px no-repeat;}
+
+.g-hd{height:320px;padding:250px 0 0;}
+
+.m-placetit{font-size:56px;text-align:center;line-height:1.4;}
+.m-placetit .tit{padding:0 90px 0 0;background-position:right -632px;}
+.m-placetit a:hover{text-decoration:none;}
+
+.m-comminfo{padding:35px 0;border-bottom:1px solid #f1f1f1;text-align:center;}
+.m-comminfo .u-comscore{margin:0 auto 8px;}
+
+.m-prolist{padding:50px 0;border-bottom:1px solid #f1f1f1;}
+.m-prolist ul{width:1000px;margin:0 auto;}
+.m-prolist li{float:left;width:320px;margin:0 20px 0 0;}
+.m-prolist li:last-child{margin:0;}
+.m-prolist .star i{float:left;width:14px;height:15px;background-position:0 -967px;}
+
+.m-about .u-btn4{float:left;margin:0 20px 0 0;}
+
+
+
+
+
+
+
+
+
+
+
+
